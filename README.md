@@ -100,11 +100,13 @@ Through this project, I learned:
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Sample Output 1
 
-* Successful grade calculation
-* Invalid input validation
-* Final program output
+![Sample Output 1](screenshots/screenshot1.png)
+
+### Sample Output 2
+
+![Sample Output 2](screenshots/screenshot2.png)
 
 ## 👨‍💻 Author
 
