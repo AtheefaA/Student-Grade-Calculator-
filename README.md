@@ -102,11 +102,11 @@ Through this project, I learned:
 
 ### Sample Output 1
 
-![Sample Output 1](screenshots/screenshot1.png)
+![Sample Output 1](screenshot1.png)
 
 ### Sample Output 2
 
-![Sample Output 2](screenshots/screenshot2.png)
+![Sample Output 2](screenshot2.png)
 
 ## 👨‍💻 Author
 
