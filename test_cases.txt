@@ -1,0 +1,60 @@
+Student Grade Calculator - Test Cases
+
+Test Case 1
+Input:
+Name: Priya
+Marks: 95
+
+Expected Output:
+Grade: A
+Message: Excellent! Keep shining!
+
+Test Case 2
+Input:
+Name: Rahul
+Marks: 85
+
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up!
+
+Test Case 3
+Input:
+Name: Anjali
+Marks: 72
+
+Expected Output:
+Grade: C
+Message: Good Job! Keep improving!
+
+Test Case 4
+Input:
+Name: Kiran
+Marks: 65
+
+Expected Output:
+Grade: D
+Message: You passed! Work a little harder!
+
+Test Case 5
+Input:
+Name: Ravi
+Marks: 40
+
+Expected Output:
+Grade: F
+Message: Don't give up! Practice and try again!
+
+Test Case 6
+Input:
+Marks: 120
+
+Expected Output:
+Please enter marks between 0 and 100.
+
+Test Case 7
+Input:
+Marks: abc
+
+Expected Output:
+Invalid input. Please enter a number.
